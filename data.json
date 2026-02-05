@@ -1,0 +1,141 @@
+{
+  "mahasiswa": [
+    {
+      "nim": "20200001",
+      "nama": "Ahmad Fauzi",
+      "email": "ahmad@example.com",
+      "wa": "081234567890",
+      "prodi": "Ekonomi Syariah",
+      "password": "123456",
+      "semester": 12,
+      "tahunMasuk": 2020
+    },
+    {
+      "nim": "20200002",
+      "nama": "Siti Aisyah",
+      "email": "aisyah@example.com",
+      "wa": "081234567891",
+      "prodi": "Perbankan Syariah",
+      "password": "123456",
+      "semester": 13,
+      "tahunMasuk": 2020
+    },
+    {
+      "nim": "20210001",
+      "nama": "Budi Santoso",
+      "email": "budi@example.com",
+      "wa": "081234567892",
+      "prodi": "Manajemen Bisnis Syariah",
+      "password": "123456",
+      "semester": 10,
+      "tahunMasuk": 2021
+    }
+  ],
+  "dosen": [
+    {
+      "nip": "1980001",
+      "nama": "Dr. Budi Santoso, M.E.I",
+      "email": "budi@febi.uinsi.ac.id",
+      "wa": "082123456789",
+      "prodi": "Ekonomi Syariah",
+      "bidang": "Ekonomi Islam",
+      "password": "dosen123"
+    },
+    {
+      "nip": "1980002",
+      "nama": "Dr. Dewi Lestari, M.Si",
+      "email": "dewi@febi.uinsi.ac.id",
+      "wa": "082123456790",
+      "prodi": "Perbankan Syariah",
+      "bidang": "Perbankan Syariah",
+      "password": "dosen123"
+    },
+    {
+      "nip": "1980003",
+      "nama": "Dr. Ahmad Fauzi, M.M",
+      "email": "ahmad@febi.uinsi.ac.id",
+      "wa": "082123456791",
+      "prodi": "Manajemen Bisnis Syariah",
+      "bidang": "Manajemen Strategis",
+      "password": "dosen123"
+    },
+    {
+      "nip": "1980004",
+      "nama": "Dr. Siti Nurhaliza, M.Ak",
+      "email": "siti@febi.uinsi.ac.id",
+      "wa": "082123456792",
+      "prodi": "Ekonomi Syariah",
+      "bidang": "Akuntansi Syariah",
+      "password": "dosen123"
+    },
+    {
+      "nip": "1980005",
+      "nama": "Dr. Muhammad Rizal, M.Kom",
+      "email": "rizal@febi.uinsi.ac.id",
+      "wa": "082123456793",
+      "prodi": "Perbankan Syariah",
+      "bidang": "Teknologi Keuangan Syariah",
+      "password": "dosen123"
+    },
+    {
+      "id": 1770223236509,
+      "nip": "197003101996031001",
+      "nama": "Dr. Iskandar, M. Ag.",
+      "email": "abufirziazka@gmail.com",
+      "bidangKeahlian": "Tafsir",
+      "kuota": 5,
+      "password": "dosen123"
+    }
+  ],
+  "proposal": [
+    {
+      "id": 1,
+      "nim": "20200001",
+      "nama": "Ahmad Fauzi",
+      "judul": "Analisis Pengaruh Digitalisasi Terhadap Kinerja Perbankan Syariah di Indonesia",
+      "pembimbing1": "1980001",
+      "pembimbing2": "1980004",
+      "similarity": 45,
+      "status": "Diterima",
+      "tanggal": "2024-01-15",
+      "prodi": "Ekonomi Syariah",
+      "file": {
+        "name": "proposal_ahmad_fauzi.pdf",
+        "content": "data:application/pdf;base64,JVBERi0xLjQKJeLjz9MKNSAwIG9iago8PC9GaWx0ZXIvRmxhdGVEZWNvZGUvTGVuZ3RoIDM4Pj5zdHJlYW0KeJwr5HIK4TI2UwhVMFAw0DMwslAISuHyzS9RMDQwMjZTMDQwMjZVCEnhcgYAZa4JcQplbmRzdHJlYW0KZW5kb2JqCjQgMCBvYmoKPDwvQ29udGVudHMgNSAwIFIvTWVkaWFCb3hbMCAwIDU5NS4yOCA4NDEuODldL1BhcmVudCAyIDAgUi9SZXNvdXJjZXM8PC9Gb250PDwvRjEgNiAwIFI+Pj4+L1RyaW1Cb3hbMCAwIDU5NS4yOCA4NDEuODldL1R5cGUvUGFnZT4+CmVuZG9iagoxIDAgb2JqCjw8L1BhZ2VzIDIgMCBSL1R5cGUvQ2F0YWxvZz4+CmVuZG9iagozIDAgb2JqCjw8L0NyZWF0aW9uRGF0ZShEOjIwMjQwMzE1MTAzMDAwKzAyJzAwJykvTW9kRGF0ZShEOjIwMjQwMzE1MTAzMDAwKzAyJzAwJykvUHJvZHVjZXIoRmViaSBVTEkgU2FtYXJpbmRhKT4+CmVuZG9iagoyIDAgb2JqCjw8L0NvdW50IDEvS2lkc1s0IDAgUl0vVHlwZS9QYWdlcz4+CmVuZG9iago2IDAgb2JqCjw8L0Jhc2VGb250L0hlbHZldGljYS9FbmNvZGluZy9XaW5BbnNpRW5jb2RpbmcvU3VidHlwZS9UeXBlMS9UeXBlL0ZvbnQ+PgplbmRvYmoKeHJlZgowIDcKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwMjQzIDAwMDAwIG4gCjAwMDAwMDAzOTcgMDAwMDAgbiAKMDAwMDAwMDI4OCAwMDAwMCBuIAowMDAwMDAwMTIzIDAwMDAwIG4gCjAwMDAwMDAwMTUgMDAwMDAgbiAKMDAwMDAwMDQ0MiAwMDAwMCBuIAp0cmFpbGVyCjw8L0luZm8gMyAwIFIvUm9vdCAxIDAgUi9TaXplIDc+PgpzdGFydHhyZWYKNTA5CiUlRU9GCg==",
+        "size": 123456
+      }
+    },
+    {
+      "id": 2,
+      "nim": "20200002",
+      "nama": "Siti Aisyah",
+      "judul": "Implementasi Sistem Informasi Perbankan Syariah Berbasis Mobile Banking",
+      "pembimbing1": "1980002",
+      "pembimbing2": "1980005",
+      "similarity": 38,
+      "status": "Menunggu",
+      "tanggal": "2024-02-10",
+      "prodi": "Perbankan Syariah",
+      "file": {
+        "name": "proposal_siti_aisyah.pdf",
+        "content": "data:application/pdf;base64,JVBERi0xLjQKJeLjz9MKNSAwIG9iago8PC9GaWx0ZXIvRmxhdGVEZWNvZGUvTGVuZ3RoIDM4Pj5zdHJlYW0KeJwr5HIK4TI2UwhVMFAw0DMwslAISuHyzS9RMDQwMjZTMDQwMjZVCEnhcgYAZa4JcQplbmRzdHJlYW0KZW5kb2JqCjQgMCBvYmoKPDwvQ29udGVudHMgNSAwIFIvTWVkaWFCb3hbMCAwIDU5NS4yOCA4NDEuODldL1BhcmVudCAyIDAgUi9SZXNvdXJjZXM8PC9Gb250PDwvRjEgNiAwIFI+Pj4+L1RyaW1Cb3hbMCAwIDU5NS4yOCA4NDEuODldL1R5cGUvUGFnZT4+CmVuZG9iagoxIDAgb2JqCjw8L1BhZ2VzIDIgMCBSL1R5cGUvQ2F0YWxvZz4+CmVuZG9iagozIDAgb2JqCjw8L0NyZWF0aW9uRGF0ZShEOjIwMjQwMzE1MTAzMDAwKzAyJzAwJykvTW9kRGF0ZShEOjIwMjQwMzE1MTAzMDAwKzAyJzAwJykvUHJvZHVjZXIoRmViaSBVTEkgU2FtYXJpbmRhKT4+CmVuZG9iagoyIDAgb2JqCjw8L0NvdW50IDEvS2lkc1s0IDAgUl0vVHlwZS9QYWdlcz4+CmVuZG9iago2IDAgb2JqCjw8L0Jhc2VGb250L0hlbHZldGljYS9FbmNvZGluZy9XaW5BbnNpRW5jb2RpbmcvU3VidHlwZS9UeXBlMS9UeXBlL0ZvbnQ+PgplbmRvYmoKeHJlZgowIDcKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwMjQzIDAwMDAwIG4gCjAwMDAwMDAzOTcgMDAwMDAgbiAKMDAwMDAwMDI4OCAwMDAwMCBuIAowMDAwMDAwMTIzIDAwMDAwIG4gCjAwMDAwMDAwMTUgMDAwMDAgbiAKMDAwMDAwMDQ0MiAwMDAwMCBuIAp0cmFpbGVyCjw8L0luZm8gMyAwIFIvUm9vdCAxIDAgUi9TaXplIDc+PgpzdGFydHhyZWYKNTA5CiUlRU9GCg==",
+        "size": 98765
+      }
+    },
+    {
+      "id": 1770223315950,
+      "nim": "111",
+      "nama": "aaaa",
+      "email": "aaaa",
+      "prodi": "Manajemen Bisnis Syariah",
+      "judul": "fintech",
+      "pembimbing1": "197003101996031001",
+      "pembimbing2": "1980005",
+      "status": "Pending",
+      "similarity": 5,
+      "tanggal": "2026-02-04T16:42:27.040Z"
+    }
+  ],
+  "bimbingan": [],
+  "repository": []
+}
