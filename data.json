@@ -113,14 +113,15 @@
       "pembimbing1": "1980002",
       "pembimbing2": "1980005",
       "similarity": 38,
-      "status": "Menunggu",
+      "status": "Diterima",
       "tanggal": "2024-02-10",
       "prodi": "Perbankan Syariah",
       "file": {
         "name": "proposal_siti_aisyah.pdf",
         "content": "data:application/pdf;base64,JVBERi0xLjQKJeLjz9MKNSAwIG9iago8PC9GaWx0ZXIvRmxhdGVEZWNvZGUvTGVuZ3RoIDM4Pj5zdHJlYW0KeJwr5HIK4TI2UwhVMFAw0DMwslAISuHyzS9RMDQwMjZTMDQwMjZVCEnhcgYAZa4JcQplbmRzdHJlYW0KZW5kb2JqCjQgMCBvYmoKPDwvQ29udGVudHMgNSAwIFIvTWVkaWFCb3hbMCAwIDU5NS4yOCA4NDEuODldL1BhcmVudCAyIDAgUi9SZXNvdXJjZXM8PC9Gb250PDwvRjEgNiAwIFI+Pj4+L1RyaW1Cb3hbMCAwIDU5NS4yOCA4NDEuODldL1R5cGUvUGFnZT4+CmVuZG9iagoxIDAgb2JqCjw8L1BhZ2VzIDIgMCBSL1R5cGUvQ2F0YWxvZz4+CmVuZG9iagozIDAgb2JqCjw8L0NyZWF0aW9uRGF0ZShEOjIwMjQwMzE1MTAzMDAwKzAyJzAwJykvTW9kRGF0ZShEOjIwMjQwMzE1MTAzMDAwKzAyJzAwJykvUHJvZHVjZXIoRmViaSBVTEkgU2FtYXJpbmRhKT4+CmVuZG9iagoyIDAgb2JqCjw8L0NvdW50IDEvS2lkc1s0IDAgUl0vVHlwZS9QYWdlcz4+CmVuZG9iago2IDAgb2JqCjw8L0Jhc2VGb250L0hlbHZldGljYS9FbmNvZGluZy9XaW5BbnNpRW5jb2RpbmcvU3VidHlwZS9UeXBlMS9UeXBlL0ZvbnQ+PgplbmRvYmoKeHJlZgowIDcKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwMjQzIDAwMDAwIG4gCjAwMDAwMDAzOTcgMDAwMDAgbiAKMDAwMDAwMDI4OCAwMDAwMCBuIAowMDAwMDAwMTIzIDAwMDAwIG4gCjAwMDAwMDAwMTUgMDAwMDAgbiAKMDAwMDAwMDQ0MiAwMDAwMCBuIAp0cmFpbGVyCjw8L0luZm8gMyAwIFIvUm9vdCAxIDAgUi9TaXplIDc+PgpzdGFydHhyZWYKNTA5CiUlRU9GCg==",
         "size": 98765
-      }
+      },
+      "catatan": "teruskan"
     },
     {
       "id": 1770223315950,
@@ -136,6 +137,19 @@
       "tanggal": "2026-02-04T16:42:27.040Z"
     }
   ],
-  "bimbingan": [],
+  "bimbingan": [
+    {
+      "id": 1770386613675,
+      "proposalId": 2,
+      "nim": "20200002",
+      "nama": "Siti Aisyah",
+      "judul": "Implementasi Sistem Informasi Perbankan Syariah Berbasis Mobile Banking",
+      "pembimbing1": "1980002",
+      "pembimbing2": "1980005",
+      "progress": 0,
+      "lastUpdate": "2026-02-06T14:03:33.675Z",
+      "riwayat": []
+    }
+  ],
   "repository": []
 }
