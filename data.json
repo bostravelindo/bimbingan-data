@@ -146,9 +146,18 @@
       "judul": "Implementasi Sistem Informasi Perbankan Syariah Berbasis Mobile Banking",
       "pembimbing1": "1980002",
       "pembimbing2": "1980005",
-      "progress": 0,
-      "lastUpdate": "2026-02-06T14:03:33.675Z",
-      "riwayat": []
+      "progress": 10,
+      "lastUpdate": "2026-02-06T14:05:21.359Z",
+      "riwayat": [
+        {
+          "id": 1770386721359,
+          "dosenNama": "Administrator",
+          "topik": "bab1",
+          "komentar": "tes",
+          "status": "Disetujui",
+          "tanggal": "2026-02-06T14:05:21.359Z"
+        }
+      ]
     }
   ],
   "repository": []
