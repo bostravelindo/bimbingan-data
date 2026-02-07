@@ -150,8 +150,9 @@
       "p1": "197003101996031001",
       "p2": "1980001",
       "fileName": "Undangan Tendik FEBI.pdf",
-      "status": "Menunggu",
-      "created": "2026-02-07T00:57:36.978Z"
+      "status": "Diterima",
+      "created": "2026-02-07T00:57:36.978Z",
+      "catatan": "silahkan diteruskan"
     }
   ],
   "bimbingan": [
@@ -175,6 +176,18 @@
           "tanggal": "2026-02-06T14:05:21.359Z"
         }
       ]
+    },
+    {
+      "id": 1770425904705,
+      "propId": 1770425856978,
+      "nim": "112233",
+      "nama": "arzak",
+      "judul": "Sitem Bagi Hasil Menggunakan Konsep Murabahah dalam Islam",
+      "p1": "197003101996031001",
+      "p2": "1980001",
+      "progress": 0,
+      "riwayat": [],
+      "updated": "2026-02-07T00:58:24.705Z"
     }
   ],
   "repository": []
