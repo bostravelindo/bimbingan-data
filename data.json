@@ -99,7 +99,8 @@
       "email": "abufirziazka@gmail.com",
       "password": "Is.z1970",
       "nip": "197003101996031001",
-      "bidang": ""
+      "bidang": "",
+      "role": "dosen"
     }
   ],
   "proposal": [
@@ -200,9 +201,18 @@
       "judul": "Sitem Bagi Hasil Menggunakan Konsep Murabahah dalam Islam",
       "p1": "197003101996031001",
       "p2": "1980001",
-      "progress": 0,
-      "riwayat": [],
-      "updated": "2026-02-07T00:58:24.705Z"
+      "progress": 10,
+      "riwayat": [
+        {
+          "dosenNama": "Dr. Iskandar, M. Ag",
+          "dosenNip": "197003101996031001",
+          "topik": "Bab I Pendahuluan",
+          "komentar": "Perkaya data teoritik dan fenomene untuk menemukan gap yang jelas",
+          "status": "Disetujui",
+          "tanggal": "2026-02-07T01:05:42.140Z"
+        }
+      ],
+      "updated": "2026-02-07T01:05:42.140Z"
     }
   ],
   "repository": []
