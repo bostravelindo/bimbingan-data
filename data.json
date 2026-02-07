@@ -35,7 +35,8 @@
       "email": "arzak@gmail.com",
       "password": "123",
       "nim": "112233",
-      "prodi": "Ekonomi Syariah"
+      "prodi": "Ekonomi Syariah",
+      "role": "mahasiswa"
     }
   ],
   "dosen": [
@@ -92,6 +93,13 @@
       "bidangKeahlian": "Tafsir",
       "kuota": 5,
       "password": "dosen123"
+    },
+    {
+      "nama": "Dr. Iskandar, M. Ag",
+      "email": "abufirziazka@gmail.com",
+      "password": "Is.z1970",
+      "nip": "197003101996031001",
+      "bidang": ""
     }
   ],
   "proposal": [
