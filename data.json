@@ -120,7 +120,7 @@
         "content": "data:application/pdf;base64,JVBERi0xLjQKJeLjz9MKNSAwIG9iago8PC9GaWx0ZXIvRmxhdGVEZWNvZGUvTGVuZ3RoIDM4Pj5zdHJlYW0KeJwr5HIK4TI2UwhVMFAw0DMwslAISuHyzS9RMDQwMjZTMDQwMjZVCEnhcgYAZa4JcQplbmRzdHJlYW0KZW5kb2JqCjQgMCBvYmoKPDwvQ29udGVudHMgNSAwIFIvTWVkaWFCb3hbMCAwIDU5NS4yOCA4NDEuODldL1BhcmVudCAyIDAgUi9SZXNvdXJjZXM8PC9Gb250PDwvRjEgNiAwIFI+Pj4+L1RyaW1Cb3hbMCAwIDU5NS4yOCA4NDEuODldL1R5cGUvUGFnZT4+CmVuZG9iagoxIDAgb2JqCjw8L1BhZ2VzIDIgMCBSL1R5cGUvQ2F0YWxvZz4+CmVuZG9iagozIDAgb2JqCjw8L0NyZWF0aW9uRGF0ZShEOjIwMjQwMzE1MTAzMDAwKzAyJzAwJykvTW9kRGF0ZShEOjIwMjQwMzE1MTAzMDAwKzAyJzAwJykvUHJvZHVjZXIoRmViaSBVTEkgU2FtYXJpbmRhKT4+CmVuZG9iagoyIDAgb2JqCjw8L0NvdW50IDEvS2lkc1s0IDAgUl0vVHlwZS9QYWdlcz4+CmVuZG9iago2IDAgb2JqCjw8L0Jhc2VGb250L0hlbHZldGljYS9FbmNvZGluZy9XaW5BbnNpRW5jb2RpbmcvU3VidHlwZS9UeXBlMS9UeXBlL0ZvbnQ+PgplbmRvYmoKeHJlZgowIDcKMDAwMDAwMDAwMCA2NTUzNSBmIAowMDAwMDAwMjQzIDAwMDAwIG4gCjAwMDAwMDAzOTcgMDAwMDAgbiAKMDAwMDAwMDI4OCAwMDAwMCBuIAowMDAwMDAwMTIzIDAwMDAwIG4gCjAwMDAwMDAwMTUgMDAwMDAgbiAKMDAwMDAwMDQ0MiAwMDAwMCBuIAp0cmFpbGVyCjw8L0luZm8gMyAwIFIvUm9vdCAxIDAgUi9TaXplIDc+PgpzdGFydHhyZWYKNTA5CiUlRU9GCg==",
         "size": 123456
       },
-      "simScore": 0
+      "simScore": 22
     },
     {
       "id": 2,
@@ -168,7 +168,22 @@
       "fileName": "Undangan Tendik FEBI.pdf",
       "status": "Diterima",
       "created": "2026-02-07T00:57:36.978Z",
-      "catatan": "silahkan diteruskan"
+      "catatan": "silahkan diteruskan",
+      "simScore": 0
+    },
+    {
+      "id": 1770431384105,
+      "nim": "112233",
+      "nama": "aa",
+      "email": "aa",
+      "wa": "123",
+      "prodi": "Ekonomi Syariah",
+      "judul": "Pengaruh Kepercayaan terhadap Minat menabung nasabah BSI Samarinda",
+      "p1": "197003101996031001",
+      "p2": "1980004",
+      "fileName": "Undangan Persepsi Dosen FEBI.pdf",
+      "status": "Menunggu",
+      "created": "2026-02-07T02:29:44.105Z"
     }
   ],
   "bimbingan": [
