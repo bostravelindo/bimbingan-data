@@ -29,6 +29,13 @@
       "password": "123456",
       "semester": 10,
       "tahunMasuk": 2021
+    },
+    {
+      "nama": "arzak",
+      "email": "arzak@gmail.com",
+      "password": "123",
+      "nim": "112233",
+      "prodi": "Ekonomi Syariah"
     }
   ],
   "dosen": [
