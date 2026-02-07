@@ -238,7 +238,7 @@
       "judul": "Pengaruh Kepercayaan terhadap Minat menabung nasabah BSI Samarinda",
       "p1": "197003101996031001",
       "p2": "1980004",
-      "progress": 20,
+      "progress": 30,
       "riwayat": [
         {
           "dosenNama": "Dr. Iskandar, M. Ag",
@@ -255,9 +255,17 @@
           "komentar": "tentukan populasi dan sampling",
           "status": "Disetujui",
           "tanggal": "2026-02-07T02:37:09.878Z"
+        },
+        {
+          "dosenNama": "Dr. Iskandar, M. Ag",
+          "dosenNip": "197003101996031001",
+          "topik": "laporan hasil",
+          "komentar": "lengkapi data wawancara dan observasi",
+          "status": "Disetujui",
+          "tanggal": "2026-02-07T02:37:41.566Z"
         }
       ],
-      "updated": "2026-02-07T02:37:09.878Z"
+      "updated": "2026-02-07T02:37:41.566Z"
     }
   ],
   "repository": []
